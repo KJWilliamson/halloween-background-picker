@@ -1,0 +1,249 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+#background_img {
+    min-height: calc(100vh - 3rem);
+}
+
+/* UNSPLASH IMAGES */
+#picone_button {
+    background: #b6580c;
+    color: white;
+    border: #b6580c solid 2px;
+  }
+.picone {
+    background: url('images/crow.jpeg');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+
+#pictwo_button {
+    background:  #d97726;
+    color: white;
+    border:  #d97726 2px solid;
+}
+.pictwo {
+    background: url('images/halloweenwitch.jpeg');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+
+#picthree_button {
+    background:  #ff8c66;
+    color: white;
+    border:  #ff8c66 2px solid;
+}
+.picthree {
+    background: url('images/pumpkinhouse.png');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+#picfour_button {
+    background: #ffb366;
+    color: white;
+    border: #ffb366 2px solid;
+}
+.picfour {
+    background: url('images/pumpkins.jpeg');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+
+#picfive_button {
+    background: #ffb366;
+    color: white;
+    border: #ffb366 2px solid;
+}
+.picfive {
+    background: url('images/blackpumpkin.jpeg');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+
+  #picsix_button {
+    background: #4b4949;
+    color: white;
+    border: #4b4949 2px solid;
+}
+.picsix {
+    background: url('images/evilanimals.jpeg');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+
+  #picseven_button {
+    background: #6a6868;
+    color: white;
+    border: #6a6868 2px solid;
+}
+.picseven {
+    background: url('images/ghostbat.jpeg');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+
+  #piceight_button {
+    background: #838181;
+    color: white;
+    border: #838181 2px solid;
+}
+.piceight {
+    background: url('images/graveyard.jpeg');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+
+  #picnine_button {
+    background: #9a9898;
+    color: white;
+    border: #9a9898 2px solid;
+}
+.picnine {
+    background: url('images/moonwitch.jpeg');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+  #picten_button {
+    background: #bdbcbc;
+    color: white;
+    border: #bdbcbc 2px solid;
+}
+.picten {
+    background: url('images/moonbats.jpeg');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+  #piceleven_button {
+    background: #087d25;
+    color: white;
+    border: #087d25 solid 2px;
+  }
+
+  .piceleven {
+    background: url('images/magician.jpeg');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+  #pictwelve_button {
+    background: #0ba231;
+    color: white;
+    border: #0ba231 2px solid;
+  }
+  
+  .pictwelve {
+    background: url('images/witch.png');
+      background-size: contain;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+  }
+
+  #picthirteen_button {
+    background: #0bc139;
+    color: white;
+    border: #0bc139 2px solid;
+}
+
+.picthirteen {
+    background: url("images/witchhouse.jpeg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#picfourteen_button {
+    background: #11ee48;
+    color: white;
+    border: #11ee48 2px solid;
+}
+
+.picfourteen {
+    background: url('images/cemetary.jpeg');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#picfifteen_button {
+    background: #690269;
+    color: white;
+    border: #690269 2px solid;
+  }
+  
+  .picfifteen {
+    background: url('images/witchcat.jpeg');
+      background-size: contain;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+  }
+
+  #picsixteen_button {
+    background: #9e059e;
+    color: white;
+    border: #9e059e 2px solid;
+  }
+  
+  .picsixteen {
+    background: url('images/mortality.jpeg');
+      background-size: contain;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+  }
+  
+  #picseventeen_button {
+    background: #aa09aa;
+    color: white;
+    border: #aa09aa 2px solid;
+  }
+  
+  .picseventeen {
+    background: url('images/gargoyle.jpeg');
+      background-size: contain;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+  }
+
+  
+  
