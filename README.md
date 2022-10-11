@@ -1,4 +1,4 @@
-# On-demand background image changer for a client
+## On-demand background image changer for a client built with HTML, CSS, and Javascript
 * Halloween background images
 
 
