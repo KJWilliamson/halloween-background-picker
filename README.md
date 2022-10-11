@@ -1,4 +1,6 @@
-# halloween-background-picker
+# On-demand background color changer for a client
+* Halloween background images
+
 
 https://halloween-background-picker.netlify.app/
 
