@@ -1,4 +1,4 @@
-# On-demand background color changer for a client
+# On-demand background image changer for a client
 * Halloween background images
 
 
